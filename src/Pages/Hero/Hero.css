@@ -1,0 +1,5 @@
+#hero{
+    background: url('../../assets/pic/hero.jpg');
+    background-position: center;
+    background-size: cover;
+}
